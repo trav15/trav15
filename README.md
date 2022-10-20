@@ -4,10 +4,11 @@ Hi, I'm Travis Tokuyama. I am a Front End Software Developer. I'm originally fro
 
 ## About Me
 
-- 🔭 I’m currently working on projects that use [Remix](https://remix.run/) and building mobile apps with [React Native](https://reactnative.dev/)
-- 🌱 I’m currently learning AWS and getting my Solutions Architect Associate certification. 
+- 🔭 I’m currently working on projects that use [AWS](https://aws.amazon.com) and building mobile apps with [React Native](https://reactnative.dev/)
+- 🌱 I’m currently studying for the AWS Certified Solutions Architect Associate certification and learning [Remix](https://remix.run/)
+- :brain: I'm logging what I've learned and taking good notes in [Today I Learned](https://github.com/trav15/til)
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about my daughter 
+- 💬 Ask me about my daughter learning the ukulele :two_hearts:
 - 📫 How to reach me: hello@travistokuyama.com
 - 😄 Pronouns: he/him
 
