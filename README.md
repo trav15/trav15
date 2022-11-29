@@ -2,6 +2,8 @@
 
 Hi, I'm Travis Tokuyama. I'm a Front End Software Developer with skills in React and AWS. I am an [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/). I'm originally from Honolulu, Hawaii, I'm a SF Giants fan, and I'm currently living in London, UK.
 
+![AWS CSAA Badge](/awscsaa.png)
+
 ## About Me
 
 - 🔭 I’m currently working on projects that use [Next.js](https://nextjs.org/) and [AWS](https://aws.amazon.com)
