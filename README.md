@@ -3,11 +3,12 @@
 Hi, I'm Travis Tokuyama. I'm a Front End Software Developer with skills in React and AWS. I hold a [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) certification and enjoy creating cloud-based projects. I'm originally from Honolulu, Hawaii, I'm a SF Giants fan, and I'm currently living in London, UK.
 
 [![AWS CSAA Badge](/awscsaa.png)](https://www.credly.com/badges/5d8dd135-a030-46b0-98f3-1d23a82e5b82/public_url)
+[![AWS CDA Badge](/awscda.png)](https://www.credly.com/badges/5d8dd135-a030-46b0-98f3-1d23a82e5b82/public_url)
 
 ## About Me
 
 - 🔭 I’m currently working on projects that use [Next.js](https://nextjs.org/) and [AWS](https://aws.amazon.com)
-- 🌱 I’m currently studying for the [AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/) and learning [Remix](https://remix.run/) and [React Native](https://reactnative.dev/)
+- 🌱 I’m currently studying for the [AWS Certified SysOp - Associate](https://aws.amazon.com/certification/certified-sysops-admin-associate/) and learning [Remix](https://remix.run/) and [React Native](https://reactnative.dev/)
 - :brain: I'm chronicling what I've learned and taking _smarter_ notes in [Today I Learned](https://github.com/trav15/til)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about teaching my daughter to play the ukulele :two_hearts:
