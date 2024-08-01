@@ -1,7 +1,8 @@
 # Travis Tokuyama
 
-Hi, I'm Travis Tokuyama. I'm a Front End Software Developer and Cloud Engineer with skills in Typescript, React, and AWS. I hold [AWS Certified DevOps Engineer Professional](https://www.credly.com/badges/25be12a8-16d8-4329-aa4b-83d24207e8fe/public_url), [AWS Certified Solutions Architect - Professional](https://www.credly.com/badges/1a190ceb-f2ba-45ac-8c13-b35c5fbcadc5/public_url) [and Associate](https://www.credly.com/badges/5d8dd135-a030-46b0-98f3-1d23a82e5b82/public_url), [AWS Certified Developer - Associate](https://www.credly.com/badges/7515ae2a-f4f0-4703-a43d-b95d5f7ed54a/public_url), and [AWS Certified SysOps - Associate](https://www.credly.com/badges/bc8d564f-0a7c-417e-add5-d4d51177900b/public_url) certifications and enjoy creating cloud-based projects. I'm originally from Honolulu, Hawaii, I'm a SF Giants fan, and I currently live in Accra, Ghana 🇬🇭.
+Hi, I'm Travis Tokuyama. I'm a Front End Software Developer and Cloud Engineer with skills in Typescript, React, and AWS. I hold six Amazon Web Services certifications: [AWS Machine Learning Specialty](https://www.credly.com/badges/55178284-7033-4c3e-97d5-92efc0c7dd1b/public_url), [AWS Certified DevOps Engineer Professional](https://www.credly.com/badges/25be12a8-16d8-4329-aa4b-83d24207e8fe/public_url), [AWS Certified Solutions Architect - Professional](https://www.credly.com/badges/1a190ceb-f2ba-45ac-8c13-b35c5fbcadc5/public_url) [and Associate](https://www.credly.com/badges/5d8dd135-a030-46b0-98f3-1d23a82e5b82/public_url), [AWS Certified Developer - Associate](https://www.credly.com/badges/7515ae2a-f4f0-4703-a43d-b95d5f7ed54a/public_url), and [AWS Certified SysOps - Associate](https://www.credly.com/badges/bc8d564f-0a7c-417e-add5-d4d51177900b/public_url) certifications and enjoy creating cloud-based projects. I'm originally from Honolulu, Hawaii, a SF Giants fan, and I currently live in Accra, Ghana 🇬🇭.
 
+[![AWS MLS Badge](/awsmls.png)](https://www.credly.com/badges/55178284-7033-4c3e-97d5-92efc0c7dd1b/public_url)
 [![AWS DOP Badge](/awsdop.png)](https://www.credly.com/badges/25be12a8-16d8-4329-aa4b-83d24207e8fe/public_url)
 [![AWS SAP Badge](/awssap.png)](https://www.credly.com/badges/1a190ceb-f2ba-45ac-8c13-b35c5fbcadc5/public_url)
 [![AWS CDA Badge](/awsda.png)](https://www.credly.com/badges/7515ae2a-f4f0-4703-a43d-b95d5f7ed54a/public_url)
@@ -10,8 +11,7 @@ Hi, I'm Travis Tokuyama. I'm a Front End Software Developer and Cloud Engineer w
 
 ## About Me
 
-- 🔭 I’m currently working on projects that use [Next.js](https://nextjs.org/) and [AWS](https://aws.amazon.com)
-- 🌱 I’m currently studying for the [AWS Machine Learning Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/) and [React Native](https://reactnative.dev/)
+- 🔭 I’m currently working on projects that use Machine Learning and [AWS](https://aws.amazon.com)
 - 🧠 I'm chronicling what I've learned and taking _smarter_ notes in [Today I Learned](https://github.com/trav15/til)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about teaching my daughters to play the ukulele :two_hearts:
