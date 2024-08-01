@@ -5,6 +5,7 @@ Hi, I'm Travis Tokuyama. I'm a Front End Software Developer and Cloud Engineer w
 [![AWS MLS Badge](/awsmls.png)](https://www.credly.com/badges/55178284-7033-4c3e-97d5-92efc0c7dd1b/public_url)
 [![AWS DOP Badge](/awsdop.png)](https://www.credly.com/badges/25be12a8-16d8-4329-aa4b-83d24207e8fe/public_url)
 [![AWS SAP Badge](/awssap.png)](https://www.credly.com/badges/1a190ceb-f2ba-45ac-8c13-b35c5fbcadc5/public_url)
+
 [![AWS CDA Badge](/awsda.png)](https://www.credly.com/badges/7515ae2a-f4f0-4703-a43d-b95d5f7ed54a/public_url)
 [![AWS CSOA Badge](/awssoa.png)](https://www.credly.com/badges/bc8d564f-0a7c-417e-add5-d4d51177900b/public_url)
 [![AWS CSAA Badge](/awscsaa.png)](https://www.credly.com/badges/5d8dd135-a030-46b0-98f3-1d23a82e5b82/public_url)
